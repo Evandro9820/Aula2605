@@ -16,6 +16,6 @@ int main (){
   printf("\n\nMedia= %.2f", md);
   }
   else{
-   printf("\nNenhuma Idade Válida digitada!");
+   printf("\nNenhuma Idade digitada!");
   }
 }
